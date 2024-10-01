@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Maria
 
-I'm a second-year student of Computer Science at the University of Gdańsk
+I'm a third-year student of Computer Science at the University of Gdańsk
 
 - 🌱 I’m currently learning **Java**, **Go** and **machine learning**
 
